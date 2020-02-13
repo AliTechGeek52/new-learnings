@@ -37,8 +37,8 @@ Muhammad Umer 8Feb20 12:19 hours
 ---
 # Shourtcut keys in VS
 We can use shortcut keys to code fast. Some of the shortcut keys are :
-- |Alt| + |Arrow Down| (Use to copy the line). 
-- |Shift| + |Alt| + Arrow up/down (Use move the current line to up/down).
+- |Alt| + |Arrow Down| (Use move the current line to up/down). 
+- |Shift| + |Alt| + Arrow up/down (Use to copy the line).
 - |Shift| + |!| (Basic code for html).
 - |Ctrl|+|X| or |Shift|+|Delete| (Cuts the currently selected item to the clipboard).
 - |Ctrl|+|C| or |Ctrl|+|Insert| (Copies the currently selected item to the clipboard).
