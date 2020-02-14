@@ -58,3 +58,11 @@ Maaz Ahmed (Boi) 13Feb20 07:22PM
 Faheem  14Feb20 07:22PM
 
 ---
+# Alligator.io icons:
+
+🤹  🏆  ⚡ ↓
+---
+
+Maaz Ahmed (Boi) 14Feb20 07:22PM
+
+---
