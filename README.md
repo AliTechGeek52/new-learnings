@@ -49,4 +49,6 @@ We can use shortcut keys to code fast. Some of the shortcut keys are :
 Maaz Ahmed (Boi) 13Feb20 07:22PM
 
 ---
-
+- Free code camp completed.
+- https://bennettfeely.com/clippy/ (to make different shapes through clip-path property).
+- flexbox and grid completed.
