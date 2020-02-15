@@ -84,3 +84,20 @@ values are from-top, from-right, from-bottom, from-left
 Maaz Ahmed (Boi) 15Feb20 04:10PM
 
 ---
+
+# Update pre-built repo in github:
+#### Folloing are the steps :
+- Open gitbash from desktop.
+- Type "git clone" and then paste url of that repo.
+- Open cloned(downloaded) folder.
+- Put files, want to push.
+- Type "git add ."  
+- Type "git commit -m [meaningful message]".
+- Type "git push".
+
+---
+
+Maaz Ahmed (Boi) 16Feb20 04:20AM
+
+---
+
