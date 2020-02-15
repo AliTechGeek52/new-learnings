@@ -66,3 +66,21 @@ Faheem  14Feb20 07:22PM
 Maaz Ahmed (Boi) 14Feb20 07:22PM
 
 ---
+
+# clip
+The clip CSS property defines what portion of an element is visible. The clip property applies only to absolutely positioned elements, that is elements with position:absolute or position:fixed .
+
+clip: rect(110px, 160px, 170px, 60px); 
+values descript a top/left point and bottom/right point
+
+# clip-path
+The clip-path property in CSS allows you to specify a specific region of an element to display, rather than showing the complete area.
+
+clip-path: inset(10px 20px 30px 40px);
+values are from-top, from-right, from-bottom, from-left
+
+---
+
+Maaz Ahmed (Boi) 15Feb20 04:10PM
+
+---
