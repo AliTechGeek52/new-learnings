@@ -86,7 +86,7 @@ Maaz Ahmed (Boi) 15Feb20 04:10PM
 ---
 
 # Update pre-built repo in github:
-#### Folloing are the steps :
+#### Following are the steps :
 - Open gitbash from desktop.
 - Type "git clone" and then paste url of that repo.
 - Open cloned(downloaded) folder.
@@ -101,3 +101,23 @@ Maaz Ahmed (Boi) 16Feb20 04:20AM
 
 ---
 
+# To Create a new Repository on GitHub:
+##### First of all why we create repositories of github?
+**Ans:** You can store a variety of projects in GitHub repositories, including open source projects. With open source projects, you can share code to make better, more reliable software.
+To put your project up on GitHub, you'll need to create a repository for it to live in.
+
+## Steps to create a Repository on GitHub:
+1. In the upper-right corner of any page, use the + drop-down menu, and select New repository.
+2. Type a short, memorable name for your repository. For example, "hello-world".
+3. Optionally, add a description of your repository. For example, "My first repository on GitHub."
+4. Choose a repository visbility. For more information, see "[About repository visibility.](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/about-repository-visibility)"
+5. Select Initialize this repository with a **README**.
+6. Click Create repository.
+
+Congratulations! You've successfully created your first repository, and initialized it with a *README* file.
+
+---
+
+Rafay Hasan Khan 17Feb20 02:07AM
+
+---
