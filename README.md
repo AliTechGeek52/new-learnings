@@ -125,3 +125,11 @@ Rafay Hasan Khan 17Feb20 02:07AM
 - always update link in your repository's Readme file as others can easily visit your website through that link 
 ---
 Faheem
+
+---
+# Correction in Faheem's learning about github pages
+- You don't have to update your link, when you push your code github pages link automatically updated by its own.
+- Put your github pages in your repo's description, this will me more easy to navigate to the page.
+---
+Muhammad Umer 17-feb-2020 9:20 PM
+
