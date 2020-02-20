@@ -133,3 +133,67 @@ Faheem
 ---
 Muhammad Umer 17-feb-2020 9:20 PM
 
+# Programming with R
+---
+- It is the language of data science
+- According to the survey of data mining experts R is on the top
+- R is 50% more efficient than Python
+- It is free and open source
+- R is optimize for vector operations (those operations are used to move exact row without an loops)
+- R has a great community
+- R has 9000+ contributed or 3rd party packages
+## Packages
+---
+- Bundle of code that adds new feature to R
+- There are two types of packages
+  1. Base packages
+  2. Contributed packages
+    ### Base Packages
+    - Installed in R but not loaded by default
+    ### Contributed Packages
+    - Need to be downloaded,installed and loaded spreatly
+## Resources to find packages
+---
+1. CRAN (Comprehansive R archive network)
+2. Crantastic
+3. github.com/trending/r
+    ### CRAN
+    - It is the official website to download R packages
+    ### Crantastic 
+    - It contains most popular and recent packages
+    ### github.com/trending/r
+    - A github repo where you can clone the desired packages
+## Packages mostly used
+---
+1. dplyr (used for manipulating data frames)
+2. tidyr (used for clearing up the information)
+3. stringer (used for wording with strings/texts)
+4. lubridare (used for manipulating date information)
+5. httr (used for working with web data)
+6. ggvis (used for grammar graphics visualization)
+7. ggplot2 (A popular package for creating graphics or data visualization)
+8. shing (used for creating interactive apps that can be installed in websites)
+9. rio (It stands for R input/output, used for importing/exporting of data)
+10. rmarkdown (used for interactive notebooks & rich documents)
+11. pacman (It stands for R package manager)
+## Package installation command
+--- 
+install.package("package name") then hit command/ctrl + enter
+require(package name) it gives a confirmation message
+library(package name) it don't give a confirmation message
+## Basic Graphics
+#### plot command
+- plot()
+ used for basic x-y graph ploting
+#### help command
+- ?plot
+#### Bar charts
+- These are the basic graphics for basic data
+#### Histrogram 
+- It is used for data that is quantitative, scaled, measured on interval or ratio level. It consists of four characteristics
+    1. Shapes
+    2. Gaps
+    3. Outliers
+    4. Symmetery
+---
+Muhammad Umer 21Feb2020 12:40AM
