@@ -134,7 +134,6 @@ Faheem
 Muhammad Umer 17-feb-2020 9:20 PM
 
 # Programming with R
----
 - It is the language of data science
 - According to the survey of data mining experts R is on the top
 - R is 50% more efficient than Python
@@ -143,7 +142,6 @@ Muhammad Umer 17-feb-2020 9:20 PM
 - R has a great community
 - R has 9000+ contributed or 3rd party packages
 ## Packages
----
 - Bundle of code that adds new feature to R
 - There are two types of packages
   1. Base packages
@@ -153,7 +151,6 @@ Muhammad Umer 17-feb-2020 9:20 PM
     ### Contributed Packages
     - Need to be downloaded,installed and loaded spreatly
 ## Resources to find packages
----
 1. CRAN (Comprehansive R archive network)
 2. Crantastic
 3. github.com/trending/r
@@ -164,7 +161,6 @@ Muhammad Umer 17-feb-2020 9:20 PM
     ### github.com/trending/r
     - A github repo where you can clone the desired packages
 ## Packages mostly used
----
 1. dplyr (used for manipulating data frames)
 2. tidyr (used for clearing up the information)
 3. stringer (used for wording with strings/texts)
@@ -177,7 +173,6 @@ Muhammad Umer 17-feb-2020 9:20 PM
 10. rmarkdown (used for interactive notebooks & rich documents)
 11. pacman (It stands for R package manager)
 ## Package installation command
---- 
 install.package("package name") then hit command/ctrl + enter
 require(package name) it gives a confirmation message
 library(package name) it don't give a confirmation message
@@ -194,6 +189,88 @@ library(package name) it don't give a confirmation message
     1. Shapes
     2. Gaps
     3. Outliers
-    4. Symmetery
+    4. Symmetry
+#### Scatter plots
+- Visualization the association between two quantative variables, following are the characteristics of scatter plots
+  1. Linear
+  2. Spread
+  3. Outliners
+  4. Correlation
+#### Overlaying Plots
+- It is used to increased information density
+## Basic Statistics
+#### Summary
+- It is used to get some precision (numerical information)
+- It is used for counting the categories
+- It is used for quartiles and mean for quantitative variables
+#### Describe
+- It is used to get some more details
+- It comes from psych package
+- This comes after graphical summary
+## Accessing Data
+#### Data formats
+- Data types (int, char, logical complex, raw, etc)
+- Data structures (vector, matrix, array, data frame, list)
+#### Vector
+- It consists of 1+ numbers
+- It is 1D array
+- All elements should have same data types
+- It is R basic data object
+#### Matrix
+- It consists of 2D 
+- It has same length 
+- It consists of same data classes
+- Column not named
+#### Array
+- Identical to array but it has 3+ dimentions
+#### Data frame
+- It contains vectors of multiple types
+- It has same length
+- It is closest R analoge to spreadsheet
+- It has some special functions
+#### List
+- It is most flexible
+- It has ordered collection of elements
+- Any class of length or structure
+- A list can include many lists
+## Coercion
+- Changing data object from one type to another
+## Factors
+- An attribute of a vector that specifies the possible values and their order
+- It has a given opportunity to assign labels to your variables and use them as factors in various analysis if you do experimental research so this becomes really important
+## Entering Data
+#### Methods
+- colon
+- seq (sequence)
+- c (concatenation)
+- scan
+- rep (repetition)
+- <- assignment operators
+#### Importing Data
+- Kinds of data files
+    1. CSV (comma-separated values)
+       - Plain text version of spreadsheets
+    2. Txt
+    3. XLSX (MS Excel spreadsheet)
+    4. JSON (JavaScript object notation)
+- R has many functions for importing data in many formats. rio package is used for this purpose
+#### Modeling Data
+- Hierarchical clustering
+## Principal Components
+- less = more
+- less noise and fewer unhelpful variables in data = more meaning AKA dimensionality reduction
+#### PCA
+- It stands for principal component analysis
+- Two variables
+- Perpendicular distance
+- Collapse
+- Rotate 
+- It converts 2D to 1D but maintained most important information
+## Regression
+- Out of many variables only one variable
+- Use many variables to predict scores on one variable 
+
+### [Set up R](https://github.com/MuhammadUmer0/Programming-with-R)
+### [R documentation](https://www.r-project.org/other-docs.html)
 ---
-Muhammad Umer 21Feb2020 12:40AM
+Muhammad Umer 21Feb2020 5:43 PM
