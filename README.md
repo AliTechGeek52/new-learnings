@@ -276,6 +276,6 @@ library(package name) it don't give a confirmation message
 Muhammad Umer 21Feb2020 5:43 PM
 
 
-#how to open "findBox" IN pc?
+## how to open "findBox" IN pc?
 
 - you can open the find box in your pc by the given shortkey (CTRL + f).
