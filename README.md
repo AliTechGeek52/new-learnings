@@ -279,3 +279,37 @@ Muhammad Umer 21Feb2020 5:43 PM
 ## How to open "FindBox" in pc?
 
 - you can open the find box in your pc by the given shortkey (CTRL + f).
+
+
+-------------------------------------
+#Python List vs. Tuples
+Lists and Tuples store one or more objects or values in a specific order. The objects stored in a list or tuple can be of any type including the nothing type defined by the None Keyword.
+###Syntax Differences
+Syntax of list and tuple is slightly different. Lists are surrounded by square brackets [] and Tuples are surrounded by parenthesis ().
+
+####Example 1.1: Creating List vs. Creating Tuple
+list_num = [1,2,3,4]
+tup_num = (1,2,3,4)
+
+print(list_num)
+print(tup_num)
+####Output:
+
+[1,2,3,4]
+(1,2,3,4)
+Above, we defined a variable called list_num which hold a list of numbers from 1 to 4.The list is surrounded by brackets []. Also, we defined a variable tup_num; which contains a tuple of number from 1 to 4. The tuple is surrounded by parenthesis ().
+
+In python we have type() function which gives the type of object created.
+
+####Example 1.2: Find type of data structure using type() function
+type(list_num)
+type(tup_num)
+####Output:
+
+list
+tuple
+---
+
+Maaz Ahmed (Boi) 17Mar20 02:20AM
+
+---
