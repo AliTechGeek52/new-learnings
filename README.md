@@ -282,18 +282,18 @@ Muhammad Umer 21Feb2020 5:43 PM
 
 
 -------------------------------------
-#Python List vs. Tuples
+# Python List vs. Tuples
 Lists and Tuples store one or more objects or values in a specific order. The objects stored in a list or tuple can be of any type including the nothing type defined by the None Keyword.
-###Syntax Differences
+### Syntax Differences
 Syntax of list and tuple is slightly different. Lists are surrounded by square brackets [] and Tuples are surrounded by parenthesis ().
 
-####Example 1.1: Creating List vs. Creating Tuple
+#### Example 1.1: Creating List vs. Creating Tuple
 list_num = [1,2,3,4]
 tup_num = (1,2,3,4)
 
 print(list_num)
 print(tup_num)
-####Output:
+#### Output:
 
 [1,2,3,4]
 (1,2,3,4)
@@ -301,10 +301,10 @@ Above, we defined a variable called list_num which hold a list of numbers from 1
 
 In python we have type() function which gives the type of object created.
 
-####Example 1.2: Find type of data structure using type() function
+#### Example 1.2: Find type of data structure using type() function
 type(list_num)
 type(tup_num)
-####Output:
+#### Output:
 
 list
 tuple
