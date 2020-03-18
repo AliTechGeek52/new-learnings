@@ -20,7 +20,7 @@ The :hover selector is used to select elements when you mouse over them.
 
 **Tip:** Use the :link selector to style links to unvisited pages, the :visited selector to style links to visited pages, and the :active selector to style the active link.
 
-**Tip:** :hover MUST come after :link and :visited (if they are present) in the CSS definition, in order to be effective! nad :hover not works if any space given between hover and id or variable
+**Note:** :hover MUST come after :link and :visited (if they are present) in the CSS definition, in order to be effective! nad :hover not works if any space given between hover and id or variable
 
 
 # Fast HTML by emmet
