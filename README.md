@@ -1,5 +1,30 @@
 ---
 
+Muhammad Hussain 19 March 2020
+
+---
+
+# Use CSS. this removes underlines from a and u elements:
+
+a, u {
+    text-decoration: none;
+}
+
+# This will remove your colour as well as the underline that anchor tag exists with
+
+a {
+     text-decoration: none ;
+  }
+a:hover
+  {
+    color:white;
+    text-decoration:none;
+    cursor:pointer;
+   }
+
+
+---
+
 Muhammad Hussain 18 March 2020
 
 ---
