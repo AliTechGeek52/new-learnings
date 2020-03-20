@@ -6,6 +6,7 @@ Muhammad Hussain 20 March 2020
 # How to set text with image in a row
 # HTML Code
 write img>h3>div.class1>div.class2 then hit tab
+'''
 <div class="class1">
                 <img src="anyImage.png" alt="">
                     <div class="class2">
@@ -13,6 +14,7 @@ write img>h3>div.class1>div.class2 then hit tab
                         <p>Another text </p>
                     </div>
             </div>
+            '''
 # CSS Code
 /*Set image Size*/
 . class1 img
