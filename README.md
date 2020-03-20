@@ -5,7 +5,6 @@ Muhammad Hussain 20 March 2020
 ---
 # How to set text with image in a row
 # HTML Code
-write img>h3>div.class1>div.class2 then hit tab
 
 ```html
 <div class="class1">
