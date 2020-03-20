@@ -1,5 +1,41 @@
 ---
 
+Muhammad Hussain 20 March 2020
+
+---
+# How to set text with image in a row
+# HTML Code
+<div class="class1">
+                <img src="anyImage.png" alt="">
+                    <div class="class2">
+                        <h3>any text</h3>
+                        <p>Another text </p>
+                    </div>
+            </div>
+
+# CSS Code
+/*Set image Size*/
+. class1 img
+{
+    height: 60px;
+    width: 50px;
+}
+
+. class1
+{
+    display: flex;
+}
+
+. class2
+{
+    margin: 0;
+    padding: 0;
+    display: block;
+}
+
+
+---
+
 Muhammad Hussain 19 March 2020
 
 ---
