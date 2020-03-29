@@ -1,5 +1,57 @@
 ---
 
+Muhammad Hussain 30 March 2020
+
+---
+# CSS border-radius - Specify Each Corner
+## The border-radius property can have from one to four values. Here are the rules:
+
+- Four values - border-radius: 15px 50px 30px 5px; (first value applies to top-left corner, second value applies to top-right corner, third value applies to bottom-right corner, and fourth value applies to bottom-left corner): 
+
+- Three values - border-radius: 15px 50px 30px; (first value applies to top-left corner, second value applies to top-right and bottom-left corners, and third value applies to bottom-right corner):
+
+- Two values - border-radius: 15px 50px; (first value applies to top-left and bottom-right corners, and the second value applies to top- right and bottom-left corners):
+
+- One value - border-radius: 15px; (the value applies to all four corners, which are rounded equally:
+
+## Here is the code:
+
+##Example
+'''
+#rcorners1 {
+  border-radius: 15px 50px 30px 5px;
+  background: #73AD21;
+  padding: 20px;
+  width: 200px;
+  height: 150px;
+}
+
+#rcorners2 {
+  border-radius: 15px 50px 30px;
+  background: #73AD21;
+  padding: 20px;
+  width: 200px;
+  height: 150px;
+}
+
+#rcorners3 {
+  border-radius: 15px 50px;
+  background: #73AD21;
+  padding: 20px;
+  width: 200px;
+  height: 150px;
+}
+
+#rcorners4 {
+  border-radius: 15px;
+  background: #73AD21;
+  padding: 20px;
+  width: 200px;
+  height: 150px;
+}
+'''
+---
+
 Muhammad Hussain 20 March 2020
 
 ---
