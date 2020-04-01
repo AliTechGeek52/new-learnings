@@ -12,6 +12,16 @@ Muhammad Hussain 02 April 2020
 - Coffee
 - Tea
 - Coca Cola
+
+### Ordered Lists:
+1.Coffee
+2.Tea
+3.Coca Cola
+
+I.Coffee
+II.Tea
+III.Coca Cola
+
 ---
 
 Muhammad Hussain 30 March 2020
