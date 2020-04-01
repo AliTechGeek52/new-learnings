@@ -22,6 +22,40 @@ I.Coffee
 II.Tea
 III.Coca Cola
 
+### HTML Lists and CSS List Properties
+
+### In HTML, there are two main types of lists:
+- unordered lists (<ul>) - the list items are marked with bullets
+- ordered lists (<ol>) - the list items are marked with numbers or letters
+- The CSS list properties allow you to:
+
+### Set different list item markers for ordered lists
+- Set different list item markers for unordered lists
+- Set an image as the list item marker
+- Add background colors to lists and list items
+
+### Different List Item Markers
+The **list-style-type** property specifies the type of list item marker.
+
+The following example shows some of the available list item markers:
+### Example
+ul.a {
+  list-style-type: circle;
+}
+
+ul.b {
+  list-style-type: square;
+}
+
+ol.c {
+  list-style-type: upper-roman;
+}
+
+ol.d {
+  list-style-type: lower-alpha;
+}
+
+
 ---
 
 Muhammad Hussain 30 March 2020
